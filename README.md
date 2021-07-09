@@ -10,7 +10,7 @@ This is the main page of the website. User is able to log any future and past ac
 There is a logout button, a view progress button, and a text that welcomes the user based on the Google ID
 ![MainPage](https://user-images.githubusercontent.com/57338074/121731437-ca74d100-caa5-11eb-8185-fdc81e0484e0.PNG)
 
-This is the result of when you press the view progress button. It allows the user to see all of their past future activites on a bar graph
-User is able to view the week and activity of their choice
+This is the result of when you press the view progress button. It allows the user to see all of their past future activites on a bar graph. The
+user is able to view the week and activity of their choice
 ![Graph](https://user-images.githubusercontent.com/57338074/121731440-cba5fe00-caa5-11eb-82ce-e72957c5732b.PNG)
 
